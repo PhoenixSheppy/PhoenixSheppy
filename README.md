@@ -1,7 +1,7 @@
 ## Hi there, I'm Phoenix! 👋
-I'm a student studying for an associates in Networking Systems Management Technology.
-I often find myself bored with what I'm offered alone by my college, so I often take it upon myself to learn new things on my own every day!
-Currently my main focuses are my pseudo-brand "PhoenixNet" which is what I use to brand my lab projects and my homelab itself.
+I'm a student studying for an associates in Networking Systems Management Technology.  
+I often find myself bored with what I'm offered alone by my college, so I often take it upon myself to learn new things on my own every day!  
+Currently my main focuses are my pseudo-brand "PhoenixNet" which is what I use to brand my lab projects and my homelab itself.  
 
 ---
 
