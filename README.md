@@ -25,7 +25,7 @@ Within, I run an absolute grab-bag of different OS's and software that meet my n
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
 #### Administration Technologies I'm Familiar With:
-<img src="https://img.shields.io/badge/vmware%20-%231595d3.svg?&style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/dellemc%20-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white"/>
+<img src="https://img.shields.io/badge/vmware%20-%231595d3.svg?&style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/dellemc%20-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white"/> <img src="https://img.shields.io/badge/cisco%20-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/cpanel%20-%23FF6C2C.svg?&style=for-the-badge&logo=cpanel&logoColor=white"/>
 
 ## Hiring?
 I'd more than love to connect! Please send all inquries to phoenix@gsheps.net. I'll be sure to respond right away!
