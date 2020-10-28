@@ -24,7 +24,8 @@ Within, I run an absolute grab-bag of different OS's and software that meet my n
 #### Software I'm familiar with:
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
-![vmware](https://img.shields.io/badge/-vmware?style=flat-square&logo=vmware)
+#### Administration Tools I'm familiar with:
+<img src="https://img.shields.io/badge/vmware%20-%23D42029.svg?&style=for-the-badge&logo=vmware&logoColor=white"/>
 
 ## Hiring?
 I'd more than love to connect! Please send all inquries to phoenix@gsheps.net. I'll be sure to respond right away!
