@@ -10,7 +10,7 @@ I've learned alot of technologies along the way, and it's definately helped me d
 As of now (last commit) I have 3 servers in my lab, all Dell EMC Poweredge-grade servers; R310, R410 and a generously donated decked-out R710.  
 I run Ubiquiti hardware in terms of networking, with the exception of Cisco VoIP phones for my VoIP lab.  
 I also run VMware in the lab, so everything is ESXi / vSphere / vCenter in terms of hypervirtualization.  
-Within, I run an absolute grab-bag of different OS's and pieces of software to meet my needs as I learn and expand my knowledge.
+Within, I run an absolute grab-bag of different OS's and software that meet my needs as I learn and grow my knowledge.
 
 ![Lab Picture](/images/labimagerounded.png)
 
