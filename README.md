@@ -12,7 +12,7 @@ I run Ubiquiti hardware in terms of networking, with the exception of Cisco VoIP
 I also run VMware in the lab, so everything is ESXi / vSphere / vCenter in terms of hypervirtualization.  
 Within, I run an absolute grab-bag of different OS's and software that meet my needs as I learn and grow my knowledge.
 
-![Lab Picture](/images/labimagerounded.png)
+![Lab Picture](/images/labimagerounded-2021.png)
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
