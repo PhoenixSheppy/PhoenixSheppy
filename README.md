@@ -1,18 +1,19 @@
 ## Hi there, I'm Phoenix! 👋
-I'm a student studying for an associates in Networking Systems Management Technology.  
+I'm a student finishing up my associates in Networking Systems Management Technology.  (2 Weeks! 4/26/2021)
 I often find myself bored with what I'm offered by my college, so I take it upon myself to learn new things on my own every day!  
-Currently my main focuses are my pseudo-brand "PhoenixNet" which is what I use to brand my lab projects and my homelab itself.  
+My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've decided to take a break from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for my small projects that I find myself getting into with any extra time I have.    
 
 ---
 
 ## My Homelab:
-I've learned alot of technologies along the way, and it's definately helped me decide where I want to take my career.  
-As of now (last commit) I have 3 servers in my lab, all Dell EMC Poweredge servers; R310, R410 and an R710.  
-I run Ubiquiti hardware in terms of networking, with the exception of Cisco VoIP phones for my VoIP lab.  
-I also run VMware in the lab, so everything is ESXi / vSphere / vCenter in terms of hypervirtualization.  
-Within, I run an absolute grab-bag of different OS's and software that meet my needs as I learn and grow my knowledge.
+I've learned alot of technologies through my journey, and it's definately helped me decide where I want to take my career.  
+Previously, I had a wonderful lab, with Dell Poweredge Servers and fancy Ubiquiti networking equipment. Now, as I'm finalizing my degree and moving out in the near future, I've decided to consolidate my lab into a Synology DS920+ and sell all of my equipment to cover the cost of the replacement equipment.  
 
-![Lab Picture](/images/labimagerounded-2021.png)
+This really changes everything, since I won't have as much room to work with, and had to cut unnecessary projects to get it all to fit into what I have to work with. But the experience I've gained hasn't gone anywhere, so I'm not too disappointed with what has happened.  
+
+I've really been brushing up my skills with Docker during this transition, and have been researching ARM64 alternatives involving using Raspberry Pi clusters and etc. But that's for future me to have fun with!  
+
+<!--Gotta replace this lab picture eventually, but for now, nothing.-->
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
