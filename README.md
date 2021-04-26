@@ -9,7 +9,7 @@ My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab
 I've learned alot of technologies through my journey, and it's definately helped me decide where I want to take my career.  
 Previously, I had a wonderful lab, with Dell Poweredge Servers and fancy Ubiquiti networking equipment. Now, as I'm finalizing my degree and moving out in the near future, I've decided to consolidate my lab into a Synology DS920+ and sell all of my equipment to cover the cost of the replacement equipment.  
 
-This really changes everything, since I won't have as much room to work with, and had to cut unnecessary projects to get it all to fit into what I have to work with. But the experience I've gained hasn't gone anywhere, so I'm not too disappointed with what has happened.  
+This really changes everything, since I won't have as much room to work with, so I had to cut unnecessary projects to get it all to fit. But the experience I've gained hasn't gone anywhere, so I'm not too disappointed with what has happened.  
 
 I've really been brushing up my skills with Docker during this transition, and have been researching ARM64 alternatives involving using Raspberry Pi clusters and etc. But that's for future me to have fun with!  
 
