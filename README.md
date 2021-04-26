@@ -1,7 +1,7 @@
 ## Hi there, I'm Phoenix! 👋
-I'm a student finishing up my associates in Networking Systems Management Technology.  (2 Weeks! 4/26/2021)
+I'm a student finishing up my associates in Networking Systems Management Technology.  (2 Weeks! 4/26/2021)  
 I often find myself bored with what I'm offered by my college, so I take it upon myself to learn new things on my own every day!  
-My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've decided to take a break from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for my small projects that I find myself getting into with any extra time I have.    
+My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've decided to take a break from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for my small projects that I find myself getting into with any extra time I have.  
 
 ---
 
