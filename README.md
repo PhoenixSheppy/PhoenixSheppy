@@ -14,10 +14,10 @@ I've really been brushing up my skills with Docker during this transition, and h
 With this move, I've split my stack into two parts;  
 
 Core Networking:  
-[img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)  
+![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)  
 
-Compute:
-[img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Compute.jpg)  
+Compute:  
+![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Compute.jpg)  
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
