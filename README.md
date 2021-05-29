@@ -1,5 +1,5 @@
 ## Hi there, I'm Phoenix! 👋
-I'm a graduate with an associates in Networking Systems Management, and currently work as a Desktop Specialist.
+I'm a graduate with an associates in Networking Systems Management, and currently work as a Desktop Specialist.  
 I often find myself yerning to learn more, so I take it upon myself to learn new things on my own every day!  
 My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've decided to take a break from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for my small projects that I find myself getting into with any extra time I have.  
 
