@@ -33,6 +33,3 @@ With this move, I've split my stack into two parts;
 
 #### Administration Technologies I'm Familiar With:
 <img src="https://img.shields.io/badge/vmware%20-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/dell--emc%20-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white"/> <img src="https://img.shields.io/badge/cisco%20-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/ubiquiti%20-%230559C9.svg?&style=for-the-badge&logo=Ubiquiti&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Server 2012/2016/2019%20-%230078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu Server 16.04/18.04/20.04%20-%23E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
-
-## Hiring?
-I'd more than love to connect! Please send all inquries to phoenix@gsheps.net. I'll be sure to respond right away!
