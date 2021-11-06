@@ -11,15 +11,11 @@ Throughout highschool, and college, I had a wonderful lab, with Dell Poweredge S
 
 I've really been brushing up my skills with Docker during this transition, and picked up some new skills too!
 
-With this move, I've split my stack into two parts;  
-
-### Core Networking:  
-
-![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)  
+With this move, I've consolidated my lab to the following:
 
 ### Compute:  
 
-![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Compute.jpg)  
+![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/compute2.jpg)  
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
