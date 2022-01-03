@@ -15,7 +15,7 @@ With this move, I've consolidated my lab to the following:
 
 ### Networking:
 
-![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/networking.jpg)
+![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)
 
 ### Compute:  
 
