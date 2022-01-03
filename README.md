@@ -7,15 +7,19 @@ My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab
 
 ## My Homelab:
 I've learned alot of technologies through my journey, and it's definately helped me decide where I want to take my career.  
-Throughout highschool, and college, I had a wonderful lab, with Dell Poweredge Servers and fancy Ubiquiti networking equipment. Now, as I've moved out and graduated, I've decided to consolidate my lab into a Synology DS920+ and an HPE Proliant ec200a Microserver.
+Throughout highschool, and college, I had a wonderful lab, with Dell Poweredge Servers and Ubiquiti networking equipment. Now, as I've moved out and graduated, I've decided to consolidate my lab into a Synology DS920+ and an HPE Proliant ec200a Microserver.
 
 I've really been brushing up my skills with Docker during this transition, and picked up some new skills too!
 
 With this move, I've consolidated my lab to the following:
 
+### Networking:
+
+![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/networking.jpg)
+
 ### Compute:  
 
-![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/compute2.jpg)  
+![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/compute.jpg)  
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
