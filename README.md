@@ -30,7 +30,7 @@ My lab now has the following equipment:
 - 2x HPE ML30G9's spec'd with various amounts of DDR4 UDIMMS, Xeon E3-2640's, and various amounts of flash-based storage.
 - 1x Synology DS920+ NAS w/4x 4TB WD Red Drive(s).
 - 1x Dell Poweredge T710, spec'd with 192GB of DDR3 ECC RDIMMS, 2x Xeon E5460's, and 3x 2TB WD Constellation Drives. 
-(My Fiancee says I can't run this one 24/7 😞)
+<br/>(My Fiancee says I can't run this one 24/7 😞)
 
 ![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/compute.jpg)  
 
