@@ -32,7 +32,7 @@ My lab now has the following equipment:
 - 1x Synology DS920+ NAS w/4x 4TB WD Red Drive(s).
 - 1x Dell Poweredge R210ii, with 20GB of DDR3 ECC UDIMMS, 1x Xeon e3-1240v2, 250GB SSD, and a Dual-10GB SFP+ NIC. 
 
-![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/compute.jpg)  
+![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewCompute.jpg)  
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
