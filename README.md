@@ -1,4 +1,4 @@
-## Hi there, I'm Phoenix! 👋
+## Hi there, I'm Jacob! 👋
 I'm a graduate with an associates in Networking Systems Management, and currently work as a IT Support Specialist.  
 I often find myself yerning to learn more, so I take it upon myself to learn new things on my own every day!  
 My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've decided to take a break from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for my small projects that I find myself getting into with any extra time I have.  
@@ -16,21 +16,21 @@ My lab now has the following equipment:
 ### Networking:
 
 - Ubiquiti UniFi Dream Machine Pro
-- Ubiquiti UniFi SW-8-POE, and SW-16-POE
-- 2x Ubiquiti UniFi Flex Switch(es)
+- Ubiquiti UniFi SW-16-POE
+- Ubiquiti UniFi USW-Aggregation (10GB Distribution Switch)
+- Cisco 3750G-24-PS (Core Stack Switch, Upgrading this soon!)
 - Ubiquiti UniFi AC-Pro, AC-IW, and AC-Nano
 - Various Ubiquiti UniFi Talk Phones (SIP/VOIP)
-- YeakLink Wireless SIP Handset Kit
+- YeakLink Wireless SIP Handset Kit (Broken, Planning on replacing soon)
 
 ![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)
 
 ### Compute:  
 
-- 2x HPE EC200a's spec'd with 32GB of DDR4 RDIMMS, Xeon-D 1518's and 128GB of NVMe storage.
-- 2x HPE ML30G9's spec'd with various amounts of DDR4 UDIMMS, Xeon E3-2640's, and various amounts of flash-based storage.
+- 2x Hyve Zeus 1u server with dual Xeon e5-2650v2's, 128GB of DDR3 ECC RDIMMS, 250GB SSD, and a Dual-10GB SFP+ NIC.
+- 1x HPE ML30G9 with 36GB of DDR4 UDIMMS, Xeon E3-2640, 2x 1TB NVMe drive(s), 4x 480GB Intel DC SSDs, 4x 800GB Intel DC SSDs, and a Dual-10GB SFP+ NIC.
 - 1x Synology DS920+ NAS w/4x 4TB WD Red Drive(s).
-- 1x Dell Poweredge T710, spec'd with 192GB of DDR3 ECC RDIMMS, 2x Xeon E5460's, and 3x 2TB WD Constellation Drives. 
-<br/>(My Fiancee says I can't run this one 24/7 😞)
+- 1x Dell Poweredge R210ii, with 20GB of DDR3 ECC UDIMMS, 1x Xeon e3-1240v2, 250GB SSD, and a Dual-10GB SFP+ NIC. 
 
 ![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/compute.jpg)  
 
