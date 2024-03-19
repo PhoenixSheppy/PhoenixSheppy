@@ -15,22 +15,20 @@ My lab now has the following equipment:
 
 ### Networking:
 
-- Ubiquiti UniFi Dream Machine Pro (Replacing Soon!)
-- Cisco Catalyst WS-C2960S-48TD-L (Distribution Switch)
-- Ubiquiti UniFi USW-Aggregation (10GB Distribution Switch)
-- Cisco 3750X-PS-T (Core Stack Switch)
-- Ubiquiti UniFi AC-Pro, AC-IW, and AC-Nano (Replacing these soon!)
-- Various Cisco 3PCC VOIP Phones / Meraki MC74 Units
+- Sophos SG230 - Repurposed running OPNSense, Upgraded to 10GB w/SFP+ Modules
+- Cisco Catalyst 2960S-48LPD-L (Distribution Switch)
+- Arista 7124SX (10GB Distribution Switch)
+- Cisco WS-C3850-48P (Core Stack Switch)
+- Cisco Aironet 2802i's and 1810W APs (CAPWAP)
+- Various Cisco UC Phones (CUCM)
 
 ![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)
 
 ### Compute:  
 
-- 2x Hyve Zeus 1u server with dual Xeon e5-2650v2's, 128GB of DDR3 ECC RDIMMS, 250GB SSD, and a Dual-10GB SFP+ NIC.
-- 1x HPE ML30G9 with 36GB of DDR4 UDIMMS, Xeon E3-2640, 2x 1TB NVMe drive(s), 4x 480GB Intel DC SSDs, 4x 800GB Intel DC SSDs, and a Dual-10GB SFP+ NIC.
-- 1x Synology DS920+ NAS w/4x 4TB WD Red Drive(s).
-- 1x Dell Poweredge R210ii, with 20GB of DDR3 ECC UDIMMS, 1x Xeon e3-1240v2, 250GB SSD, and a Dual-10GB SFP+ NIC. 
-- 1x Custom "Franken-Barracuda-Server" w/Ryzen 7 2700x, 64GB of DDR4, 1TB of NVMe and a GT710.
+- 3x Hyve Zeus 1u server with dual Xeon e5-2650v2's, 128GB of DDR3 ECC RDIMMS, 250GB SSD, and a Dual-10GB SFP+ NIC.
+- 1x Dell R240 with 32GB of DDR4 UDIMMS, Xeon E-2124, Quadro P600, 2x8TB HDDs, and a Dual-10GB SFP+ NIC.
+- 1x Lenovo System-X 3250 M6 with 32GB of DDR4 UDIMMS, Xeon e3-1225v5, 6x800GB SSDs, and a Dual-10GB SFP+ NIC.
 
 ![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewCompute.jpg)  
 
