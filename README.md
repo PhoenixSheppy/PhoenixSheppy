@@ -26,11 +26,13 @@ My lab now has the following equipment:
 
 ### Compute:  
 
-- 3x Hyve Zeus 1u server with dual Xeon e5-2650v2's, 128GB of DDR3 ECC RDIMMS, 250GB SSD, and a Dual-10GB SFP+ NIC.
+- 1x Dell R730 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 2x512GB SSDs, a Dell X520 Dual-10GB SFP+ NIC, and an NVIDIA Tesla P4 running VMware ESXi 7.0.
+- 1x HPE DL380g9 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 1x512GB SSD, and a HP X520 Dual-10GB SFP+ NIC running Proxmox 8.2.2.
 - 1x Dell R240 with 32GB of DDR4 UDIMMS, Xeon E-2124, Quadro P600, 2x8TB HDDs, and a Dual-10GB SFP+ NIC.
 - 1x Lenovo System-X 3250 M6 with 32GB of DDR4 UDIMMS, Xeon e3-1225v5, 6x800GB SSDs, and a Dual-10GB SFP+ NIC.
 
 ![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewCompute.jpg)  
+(This picture is out of date, and represents a prior setup)
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
