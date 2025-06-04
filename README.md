@@ -1,5 +1,5 @@
 ## Hi there, I'm Jacob! 👋
-I'm a graduate with an associates in Networking Systems Management, and currently work as a IT Support Specialist.  
+I'm a graduate with an associates in Networking Systems Management, and currently work as a Senior IT Support Specialist.  
 I often find myself yerning to learn more, so I take it upon myself to learn new things on my own every day!  
 My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've break off from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for developing projects that incorporate the technologies I learn in my day to day tasks.  
 
@@ -7,11 +7,9 @@ My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab
 
 ## My Homelab:
 I've learned alot of technologies throughout my journey, and it's definately helped me decide where I want to take my career next.  
-Throughout highschool, and college, I had a wonderful lab, with Dell Poweredge Servers and Ubiquiti networking equipment. Now, as I've graduated, moved out, and joined the workforce I've decided to upgrade and focus my lab a little bit.
+Throughout highschool, and college, I had a wonderful lab, with Dell Poweredge Servers and Ubiquiti networking equipment. Now, as I've graduated, moved out, and joined the workforce I've decided to upgrade and hone my skills in my lab a little bit.
 
-I've been harnessing my skills lately, and picked up some new skills along the way too!
-
-My lab now has the following equipment:
+My lab has the following equipment:
 
 ### Networking:
 
@@ -19,6 +17,7 @@ My lab now has the following equipment:
 - Cisco Catalyst 2960S-48LPD-L (Distribution Switch)
 - Cisco WS-C3850-12-XS (10GB Distribution Switch)
 - Cisco WS-C3850-48P (Core Stack Switch)
+- Cisco WS-C3850-24P (Management Network Isolated Switch)
 - Ubiquiti AC Pro AP(s) (Wireless)
 - Various Cisco UC Phones (CUCM)
 
@@ -26,10 +25,11 @@ My lab now has the following equipment:
 
 ### Compute:  
 
-- 1x Dell R730 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 4TB of SSDs, 3TB of NVMe storage, a Dell X520 Dual-10GB SFP+ NIC, and an NVIDIA Tesla P4 running VMware ESXi 7.0.
-- 1x HPE DL380g9 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 1x512GB SSD, and a HP X520 Dual-10GB SFP+ NIC running Proxmox 8.2.2.
+- 1x Dell R730 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 4TB of SSDs, 3TB of NVMe storage, a Dell X520 10GBSFP+ & 1GBE Daughterboard, running VMware ESXi.
+- 1x HPE DL380g9 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 1x512GB SSD, and an HP X520 10GBSFP+ & 1GBE Daughterboard running Proxmox VE.
 - 1x Dell R240 with 32GB of DDR4 UDIMMS, Xeon E-2124, Quadro P600, 2x8TB HDDs, 2x10TB HDDs, and a Dual-10GB SFP+ NIC.
-- 1x Lenovo System-X 3250 M6 with 32GB of DDR4 UDIMMS, Xeon e3-1225v5, 6x800GB SSDs, and a Dual-10GB SFP+ NIC.
+- 1x Dell R630 with 256GB of DDR4 UDIMMS, Dual Xeon E5-2667v4's, 6x800GB SSDs, Dell X520 10GBSFP+ & 1GBE Daughterboard, and an NVIDIA Tesla P4 running Proxmox VE.
+- 1x Lenovo System-X 3250 M6 with 32GB of DDR4 UDIMMS, Xeon e3-1225v5, 6x800GB SSDs, and a Dual-10GB SFP+ NIC. (retiring soon)
 
 ![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewCompute.jpg)  
 (This picture is out of date, and represents a prior setup)
