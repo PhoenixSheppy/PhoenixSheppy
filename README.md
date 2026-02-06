@@ -6,8 +6,9 @@ My Pseudo-company "PhoenixNet-Labs" is used for projects that incorporate the th
 ---
 
 ## My Homelab:
-I've learned alot of technologies throughout my homelab journey, and it's definately helped me decide where I want to take my career next.  
-Throughout highschool, and college, I built amazing lab environments, with Dell Poweredge Servers and various pieces networking equipment from a wide variety of vendors. Now, as I've began my adult life I've decided to continue to grow and hone my skills in my lab.
+I've learned alot of technologies throughout my journey, and it's helped me decide where I want to take my career next.  
+Throughout highschool, and college, I've built amazing lab environments, with servers and various pieces networking equipment from a wide variety of vendors. 
+Now, as I've began my adult life I've decided to continue to grow and hone my skills in my lab.
 
 My current lab consists of the following hardware:
 
