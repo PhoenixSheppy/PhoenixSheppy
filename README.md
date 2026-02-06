@@ -19,7 +19,7 @@ My current lab consists of the following hardware:
 - Ubiquiti AC Pro AP(s) (Wireless connectivity, all throughout)
 - Various VoIP Phones (FusionPBX, all throughout)
 
-![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)
+![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewNewComsRack2026.jpg)
 
 ### Compute / Core Rack:
 (Equipment Listed Top to Bottom Order)
