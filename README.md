@@ -14,8 +14,8 @@ My current lab consists of the following hardware:
 
 ### Network / Distribution Rack:
 
-- Sophos SG230 - Repurposed running OPNSense, Upgraded w/10GB SFP+ Module. (Looking to replace soon with UXG-Pro)
 - Cisco Catalyst C3850-24P-S (Distribution switch)
+- Sophos SG230 - Repurposed running OPNSense, Upgraded w/10GB SFP+ Module. (Looking to replace very soon with UXG-Pro)
 - Ubiquiti AC Pro AP(s) (Wireless connectivity, all throughout)
 - Various VoIP Phones (FusionPBX, all throughout)
 
