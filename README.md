@@ -1,35 +1,36 @@
-## Hi there, I'm Jacob! 👋
+## Hi there, I'm Jacob, but my friends call me Phoenix! 👋
 I'm a graduate with an associates in Networking Systems Management, and currently work as a Senior IT Support Specialist.  
 I often find myself yearning to learn more, so I take it upon myself to learn new things on my own every day!  
-My Previous Pseudo-Company name "PhoenixNet" covered my work on my first homelab, but I've break off from it and create a spin-off Pseudo-brand "PhoenixNet-Labs" for developing projects that incorporate the technologies I learn in my day to day tasks both at work, and while working on my lab.  
+My Pseudo-company "PhoenixNet-Labs" is used for projects that incorporate the things I learn at work, and in my lab. 
 
 ---
 
 ## My Homelab:
 I've learned alot of technologies throughout my homelab journey, and it's definately helped me decide where I want to take my career next.  
-Throughout highschool, and college, I had a wonderful lab, with Dell Poweredge Servers and Ubiquiti networking equipment. Now, as I've graduated, moved out, and joined the workforce I've decided to upgrade and hone my skills in my lab a little bit.
+Throughout highschool, and college, I built amazing lab environments, with Dell Poweredge Servers and various pieces networking equipment from a wide variety of vendors. Now, as I've began my adult life I've decided to continue to grow and hone my skills in my lab.
 
-My lab consists of the following hardware:
+My current lab consists of the following hardware:
 
 ### Network / Distribution Rack:
 
-- Sophos SG230 - Repurposed running OPNSense, Upgraded w/10GB SFP+ Module.
-- Cisco Catalyst 2960S-48LPD-L (Distribution switch)
-- Ubiquiti AC Pro AP(s) (Wireless connectivity, spread throughout)
-- Various Cisco UC Phones (CUCM-stack, spread throughout)
+- Sophos SG230 - Repurposed running OPNSense, Upgraded w/10GB SFP+ Module. (Looking to replace soon with UXG-Pro)
+- Cisco Catalyst C3850-24P-S (Distribution switch)
+- Ubiquiti AC Pro AP(s) (Wireless connectivity, all throughout)
+- Various VoIP Phones (FusionPBX, all throughout)
 
 ![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/Networking.jpg)
 
 ### Compute / Core Rack:
 (Equipment Listed Top to Bottom Order)
 
-- Cisco WS-C3850-48P (Core Stack Switch)
-- Cisco WS-C3850-12-XS (10GB Distribution Switch)
-- Cisco WS-C3850-24P (Management Network Isolated Switch)
-- 1x Dell R240 with 32GB of DDR4 UDIMMS, Xeon E-2124, Intel ARC A310, 2x8TB HDDs, 2x10TB HDDs, and a Dual-10GB SFP+ NIC.
-- 1x Dell R630 with 256GB of DDR4 UDIMMS, Dual Xeon E5-2667v4's, 6x800GB SSDs, Dell X520 2x10GBSFP+ & 2x1GBE Daughterboard, and an NVIDIA Tesla P4 running Proxmox VE.
-- 1x HPE DL380g9 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 1x512GB SSD, and an HP 2xX520 10GBSFP+ & 2x1GBE Daughterboard running Proxmox VE.
-- 1x Dell R730 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 4TB of SSDs, 3TB of NVMe storage, a Dell X520 2x10GBSFP+ & 2x1GBE Daughterboard, running VMware ESXi.
+- Cisco WS-C3850-48P (Core Switch)
+- Cisco WS-C3850-12-XS (10GB SFP+ Aggregation Switch)
+- UniFi Protect UNVR
+- Dell R740 with 128GB of DDR4 ECC RDIMMS, Dual Xeon Silver 4112 CPU(s), 2x8TB, 2x10TB, and 2x6TB HDDs, 2x1TB U.2 Drives for Cache, Dell X520 2x10GB & 2x1GBE Daughterboard, and a Intel ARC A380 GPU for transcoding.
+- Dell R630 with 128GB of DDR4 UDIMMS, Dual Xeon E5-2667v4's, 6x800GB SSDs, and a Dell X520 2x10GBSFP+ & 2x1GBE Daughterboard.
+- Dell R740 with 256GB DDR4 ECC RDIMMS, Dual Xeon Gold 6138's, and a Dell X520 2x10GB & 2x1GBE Daughterboard.
+- Dell R730 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 8TB of HDDs, and a Dell X520 2x10GBSFP+ & 2x1GBE Daughterboard.
+- Dell R240 with 48GB of DDR4 UDIMMS, Xeon E-2124, 2x4TB HDDs, and a Dual-10GB SFP+ NIC.
 
 ![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/new_rack.JPG)  
 
