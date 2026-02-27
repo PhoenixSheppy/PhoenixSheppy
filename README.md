@@ -19,7 +19,7 @@ My current lab consists of the following hardware:
 - Ubiquiti AC Pro AP(s) (Wireless connectivity, all throughout)
 - Various VoIP Phones (FusionPBX, all throughout)
 
-![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewNewComsRack2026.jpg)
+![img of networking equipment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewNewNewComsRack2026.jpg)
 
 ### Compute / Core Rack:
 (Equipment Listed Top to Bottom Order)
@@ -33,7 +33,7 @@ My current lab consists of the following hardware:
 - Dell R730 with 192GB of DDR4 ECC UDIMMS, Dual Xeon E5-2680v4's, 8TB of HDDs, and a Dell X520 2x10GBSFP+ & 2x1GBE Daughterboard.
 - Dell R240 with 48GB of DDR4 UDIMMS, Xeon E-2124, 2x4TB HDDs, and a Dual-10GB SFP+ NIC.
 
-![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewNewLab2026.jpg)  
+![img of compute equpiment](https://raw.githubusercontent.com/PhoenixSheppy/PhoenixSheppy/main/images/NewNewServerRack.jpg)  
 
 ## Experience:
 #### Lanaguages / Frameworks I Understand:
